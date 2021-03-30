@@ -1,0 +1,169 @@
+.depart{
+  font-size: 0.75em;
+}
+.bgg{
+  background-color: white;
+}
+.depart1{
+  font-size: 0.775em;
+  border-radius: 10px;
+  text-decoration: none;
+  box-direction: none;
+  margin-top: 2px;
+  color: white;
+  background-color: white;
+}
+
+.bism{
+  color:  rgb(238, 91, 46);
+  border: 2px;
+  font-size: large;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px white;
+}
+.bism:hover{
+  color:  rgb(238, 91, 46);
+  border: 2px;
+  text-decoration: none;
+  font-size: large;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px white;
+}
+.Adddepart{
+  font-size: 0.775em;
+  display: flex;
+ justify-content: center;
+ margin-top: 60px;
+}
+
+.Adddepart2{
+  width: 90%;
+  font-size: 0.875em;
+  border-style: solid;
+  border-color:  rgb(238, 91, 46) ;
+  
+  border-width: medium; 
+}
+.decoration{
+  text-decoration: none;
+  color: black;
+}
+.home{
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  
+  background: rgb(238, 91, 46) ;
+  border-top-left-radius:10px ;
+  border-bottom-right-radius:10px ;
+}
+.home:hover{
+  text-decoration: none;
+  color: black;
+  background: rgb(238, 91, 46) ;
+
+  
+}
+.decoration:hover{
+  text-decoration: none;
+  color: white;
+  
+}
+.decoration1{
+  text-decoration: none;
+  color:white;
+}
+.decoration1:hover{
+  text-decoration: none;
+  color: white;
+  
+}
+.AddIcon{
+  margin-right: 5px;
+}
+.opt{
+  color: black;
+  
+}
+.gender{
+  margin-left: 15px;
+ 
+}
+.gender1{
+  margin-left: 5px;
+ 
+}
+.tdd{
+  width: 500px;
+}
+.button{
+  padding: 7px;
+  border-radius: 8px;
+}
+.icon{
+  color:#f50a1e;
+  
+}
+.icon1{
+  color:#39f08e;
+}
+.fee{
+  display: flex;
+}
+.fee1{
+  width: 75%;
+  color:  rgb(238, 91, 46);
+}
+.His{
+  color:  rgb(238, 91, 46);
+  font-size: 14px;
+
+}
+.his{
+    display: flex;
+}
+.his0{
+  width: 35%;
+}
+.his1{
+  width: 50%;
+}
+.his2{
+  padding-left: 4px;
+  width: 25%;
+}
+.TDwidth{
+  width: 40px;
+}
+.editIcon{
+  padding: 2px;
+  background-color:white;
+  border-top-left-radius:7px ;
+}
+.deleteIcon{
+  padding: 2px;
+  background-color:white;
+  border-bottom-right-radius:7px ;
+}
+.openwallet{
+  background: rgb(238, 91, 46);
+  color: white;
+  padding: 5px;
+  border-top-left-radius:10px ;
+  border-bottom-right-radius:10px ;
+}
+.openwallet:hover{
+  border-radius: 5px;
+  background: white;
+  color: black;
+}
+.thead{
+  color: rgb(238, 91, 46);
+  font-size: 1.275em;
+
+}
+.cardHead{
+  color:  rgb(238, 91, 46);
+
+}
+
